@@ -1,0 +1,369 @@
+{
+  "nodes": [
+    "communities",
+    "each other",
+    "cooperation",
+    "students",
+    "community institutes",
+    "communication",
+    "steadily",
+    "transportation",
+    "movement of people and goods",
+    "sense of direction",
+    "park",
+    "repairs",
+    "chandan",
+    "family members",
+    "people",
+    "van mahotsav",
+    "children",
+    "parents join",
+    "sheela",
+    "van mahotsav location",
+    "sameer",
+    "benches",
+    "everyone",
+    "together",
+    "banana leaves",
+    "volunteers",
+    "food",
+    "leaves",
+    "manure",
+    "soil quality"
+  ],
+  "edges": [
+    {
+      "e1": "communities",
+      "rel": "depend",
+      "e2": "each other"
+    },
+    {
+      "e1": "communities",
+      "rel": "thrive",
+      "e2": "cooperation"
+    },
+    {
+      "e1": "students",
+      "rel": "explore",
+      "e2": "community institutes"
+    },
+    {
+      "e1": "students",
+      "rel": "develop",
+      "e2": "sense of direction"
+    },
+    {
+      "e1": "communication",
+      "rel": "improve",
+      "e2": "steadily"
+    },
+    {
+      "e1": "transportation",
+      "rel": "help",
+      "e2": "movement of people and goods"
+    },
+    {
+      "e1": "park",
+      "rel": "needs",
+      "e2": "repairs"
+    },
+    {
+      "e1": "chandan",
+      "rel": "invites",
+      "e2": "family members"
+    },
+    {
+      "e1": "people",
+      "rel": "participate",
+      "e2": "van mahotsav"
+    },
+    {
+      "e1": "children",
+      "rel": "happy",
+      "e2": "parents join"
+    },
+    {
+      "e1": "children",
+      "rel": "handed",
+      "e2": "banana leaves"
+    },
+    {
+      "e1": "sheela",
+      "rel": "plans",
+      "e2": "van mahotsav location"
+    },
+    {
+      "e1": "sameer",
+      "rel": "fixes",
+      "e2": "benches"
+    },
+    {
+      "e1": "everyone",
+      "rel": "sat",
+      "e2": "together"
+    },
+    {
+      "e1": "volunteers",
+      "rel": "served",
+      "e2": "food"
+    },
+    {
+      "e1": "leaves",
+      "rel": "becomes",
+      "e2": "manure"
+    },
+    {
+      "e1": "manure",
+      "rel": "improves",
+      "e2": "soil quality"
+    }
+  ],
+  "entity_to_chunks": {
+    "communities": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "each other": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cooperation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "students": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "community institutes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "communication": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "steadily": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "transportation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "movement of people and goods": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "sense of direction": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "park": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "repairs": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "chandan": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "family members": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "people": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "van mahotsav": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "children": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "parents join": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sheela": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "van mahotsav location": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sameer": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "benches": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "everyone": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "together": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "banana leaves": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "volunteers": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "food": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "leaves": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "manure": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "soil quality": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+}

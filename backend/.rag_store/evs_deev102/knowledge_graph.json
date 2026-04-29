@@ -1,0 +1,296 @@
+{
+  "nodes": [
+    "flyovers",
+    "facilities for cars, buses",
+    "metros",
+    "transportation",
+    "changes",
+    "animals, birds, trees",
+    "planting trees",
+    "environment secure",
+    "navya",
+    "developments and environment safety",
+    "experiences",
+    "public places",
+    "services",
+    "places like hospitals, banks etc.",
+    "neighbourhood",
+    "east direction",
+    "places on the paper",
+    "directions",
+    "library",
+    "librarians",
+    "post office",
+    "postal workers",
+    "fire station",
+    "firefighters",
+    "hospital",
+    "doctors",
+    "police station",
+    "patrolling jeep"
+  ],
+  "edges": [
+    {
+      "e1": "flyovers",
+      "rel": "provide",
+      "e2": "facilities for cars, buses"
+    },
+    {
+      "e1": "metros",
+      "rel": "provide",
+      "e2": "transportation"
+    },
+    {
+      "e1": "changes",
+      "rel": "affect",
+      "e2": "animals, birds, trees"
+    },
+    {
+      "e1": "planting trees",
+      "rel": "keep",
+      "e2": "environment secure"
+    },
+    {
+      "e1": "navya",
+      "rel": "wonders",
+      "e2": "developments and environment safety"
+    },
+    {
+      "e1": "navya",
+      "rel": "shares",
+      "e2": "experiences"
+    },
+    {
+      "e1": "navya",
+      "rel": "draws",
+      "e2": "neighbourhood"
+    },
+    {
+      "e1": "navya",
+      "rel": "identifies",
+      "e2": "east direction"
+    },
+    {
+      "e1": "public places",
+      "rel": "provide",
+      "e2": "services"
+    },
+    {
+      "e1": "places like hospitals, banks etc.",
+      "rel": "include",
+      "e2": "services"
+    },
+    {
+      "e1": "places on the paper",
+      "rel": "are represented in",
+      "e2": "directions"
+    },
+    {
+      "e1": "library",
+      "rel": "staffed by",
+      "e2": "librarians"
+    },
+    {
+      "e1": "post office",
+      "rel": "served by",
+      "e2": "postal workers"
+    },
+    {
+      "e1": "fire station",
+      "rel": "operated by",
+      "e2": "firefighters"
+    },
+    {
+      "e1": "hospital",
+      "rel": "staffed by",
+      "e2": "doctors"
+    },
+    {
+      "e1": "police station",
+      "rel": "used by",
+      "e2": "patrolling jeep"
+    }
+  ],
+  "entity_to_chunks": {
+    "flyovers": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "facilities for cars, buses": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "metros": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "transportation": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "changes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "animals, birds, trees": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "planting trees": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "environment secure": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "navya": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "developments and environment safety": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "experiences": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "public places": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "services": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "places like hospitals, banks etc.": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "neighbourhood": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "east direction": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "places on the paper": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "directions": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "library": [
+      18
+    ],
+    "librarians": [
+      18
+    ],
+    "post office": [
+      18
+    ],
+    "postal workers": [
+      18
+    ],
+    "fire station": [
+      18
+    ],
+    "firefighters": [
+      18
+    ],
+    "hospital": [
+      18
+    ],
+    "doctors": [
+      18
+    ],
+    "police station": [
+      18
+    ],
+    "patrolling jeep": [
+      18
+    ]
+  }
+}

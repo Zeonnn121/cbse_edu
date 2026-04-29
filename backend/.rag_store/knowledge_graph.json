@@ -1,0 +1,369 @@
+{
+  "nodes": [
+    "communities",
+    "bonds",
+    "cooperation",
+    "students",
+    "community institutes",
+    "roles of people",
+    "transportation",
+    "movement of people and goods",
+    "cleaning",
+    "park",
+    "trees",
+    "better air",
+    "chandan",
+    "family members",
+    "community",
+    "colourful poster",
+    "children",
+    "parents join",
+    "sameer",
+    "park benches",
+    "everyone",
+    "to eat",
+    "banana leaves",
+    "volunteers",
+    "food",
+    "leaves",
+    "manure",
+    "soil quality",
+    "van mahotsav celebration",
+    "happiness"
+  ],
+  "edges": [
+    {
+      "e1": "communities",
+      "rel": "enrich",
+      "e2": "bonds"
+    },
+    {
+      "e1": "communities",
+      "rel": "thrive",
+      "e2": "cooperation"
+    },
+    {
+      "e1": "students",
+      "rel": "explore",
+      "e2": "community institutes"
+    },
+    {
+      "e1": "students",
+      "rel": "understand",
+      "e2": "roles of people"
+    },
+    {
+      "e1": "transportation",
+      "rel": "helps",
+      "e2": "movement of people and goods"
+    },
+    {
+      "e1": "cleaning",
+      "rel": "improves",
+      "e2": "park"
+    },
+    {
+      "e1": "trees",
+      "rel": "provide",
+      "e2": "better air"
+    },
+    {
+      "e1": "chandan",
+      "rel": "invites",
+      "e2": "family members"
+    },
+    {
+      "e1": "community",
+      "rel": "creates",
+      "e2": "colourful poster"
+    },
+    {
+      "e1": "children",
+      "rel": "happens when",
+      "e2": "parents join"
+    },
+    {
+      "e1": "children",
+      "rel": "distributes",
+      "e2": "banana leaves"
+    },
+    {
+      "e1": "sameer",
+      "rel": "repairs",
+      "e2": "park benches"
+    },
+    {
+      "e1": "everyone",
+      "rel": "sits together",
+      "e2": "to eat"
+    },
+    {
+      "e1": "volunteers",
+      "rel": "serves",
+      "e2": "food"
+    },
+    {
+      "e1": "leaves",
+      "rel": "becomes",
+      "e2": "manure"
+    },
+    {
+      "e1": "manure",
+      "rel": "improves",
+      "e2": "soil quality"
+    },
+    {
+      "e1": "van mahotsav celebration",
+      "rel": "ends",
+      "e2": "happiness"
+    }
+  ],
+  "entity_to_chunks": {
+    "communities": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "bonds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cooperation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "students": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "community institutes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "roles of people": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "transportation": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "movement of people and goods": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "cleaning": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "park": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "trees": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "better air": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "chandan": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "family members": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "community": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "colourful poster": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "children": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "parents join": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "sameer": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "park benches": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "everyone": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "to eat": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "banana leaves": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "volunteers": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "food": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "leaves": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "manure": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "soil quality": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "van mahotsav celebration": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "happiness": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  }
+}
