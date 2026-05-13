@@ -1,0 +1,243 @@
+{
+  "nodes": [
+    "students",
+    "length",
+    "picture",
+    "height",
+    "various tools",
+    "grade 3 students",
+    "metres for length measurement",
+    "most of the students' height",
+    "more than a metre",
+    "fingernail",
+    "less than 1 cm",
+    "eraser",
+    "ant",
+    "grain of wheat",
+    "rajma seed",
+    "perimeter",
+    "formal units or measuring tape",
+    "boundary",
+    "bricks",
+    "colour"
+  ],
+  "edges": [
+    {
+      "e1": "students",
+      "rel": "measure",
+      "e2": "length"
+    },
+    {
+      "e1": "picture",
+      "rel": "has",
+      "e2": "length"
+    },
+    {
+      "e1": "height",
+      "rel": "is measured by",
+      "e2": "various tools"
+    },
+    {
+      "e1": "grade 3 students",
+      "rel": "studied",
+      "e2": "metres for length measurement"
+    },
+    {
+      "e1": "most of the students' height",
+      "rel": "is",
+      "e2": "more than a metre"
+    },
+    {
+      "e1": "fingernail",
+      "rel": "has length",
+      "e2": "less than 1 cm"
+    },
+    {
+      "e1": "eraser",
+      "rel": "has length",
+      "e2": "less than 1 cm"
+    },
+    {
+      "e1": "ant",
+      "rel": "has length",
+      "e2": "less than 1 cm"
+    },
+    {
+      "e1": "grain of wheat",
+      "rel": "has length",
+      "e2": "less than 1 cm"
+    },
+    {
+      "e1": "rajma seed",
+      "rel": "has length",
+      "e2": "less than 1 cm"
+    },
+    {
+      "e1": "perimeter",
+      "rel": "is measured by",
+      "e2": "formal units or measuring tape"
+    },
+    {
+      "e1": "boundary",
+      "rel": "is made of",
+      "e2": "bricks"
+    },
+    {
+      "e1": "colour",
+      "rel": "is applied to",
+      "e2": "bricks"
+    }
+  ],
+  "entity_to_chunks": {
+    "students": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "length": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "picture": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "height": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "various tools": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "grade 3 students": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "metres for length measurement": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "most of the students' height": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "more than a metre": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "fingernail": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "less than 1 cm": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "eraser": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "ant": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "grain of wheat": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "rajma seed": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "perimeter": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "formal units or measuring tape": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "boundary": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "bricks": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "colour": [
+      12,
+      13,
+      14,
+      15
+    ]
+  }
+}
